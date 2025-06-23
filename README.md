@@ -53,6 +53,7 @@ Preview:
 Check out taj_mahal_image.jpg
 
 👩‍💻 Authors
+
 Jaya
 
 Mohini
