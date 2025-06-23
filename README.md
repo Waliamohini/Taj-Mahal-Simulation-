@@ -49,9 +49,8 @@ Animated name text with color transitions
 
 Built using basic 2D functions – no external libraries used.
 
-#Preview:-
-![Uploading image.png…]()
-
+Preview:
+Check out taj_mahal_image.jpg
 
 👩‍💻 Authors
 Jaya
